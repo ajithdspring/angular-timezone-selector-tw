@@ -57,7 +57,7 @@ angular.module('angular-timezone-selector', [])
     return {
       restrict: 'E',
       replace: true,
-      template: '<select style="min-width:300px;"></select>',
+      template: '<select></select>',
       scope: {
         ngModel: '=',
         translations: '='
