@@ -158,7 +158,7 @@ background-color: #ffffff;
   width: 18px;
 }
 .chosen-container-single .chosen-single div b {
-  background: url("chosen-sprite.png") no-repeat 0 7px;
+  background: url("chosen-sprite.png") no-repeat 0 14px;
   display: block;
   height: 100%;
   width: 100%;
@@ -295,7 +295,7 @@ background-color: #ffffff;
   border-left: none;
 }
 .chosen-container-active.chosen-with-drop .chosen-single div b {
-  background-position: -18px 7px;
+  background-position: -16px 14px;
 }
 .chosen-container-active .chosen-choices {
   border: 1px solid #66afe9;
